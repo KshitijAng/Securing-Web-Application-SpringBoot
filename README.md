@@ -1,4 +1,6 @@
 # Securing a Web Application with Spring Boot, Spring MVC & Spring Security
+
+![Security Config Screenshot](banner.png)
  
 This project implements a simple web application that uses **Spring MVC** for the web layer, **Thymeleaf** for view templates, and **Spring Security** to protect certain endpoints. The application includes a public home page and a secured greeting page. Users must authenticate to view the greeting.
 
