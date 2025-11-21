@@ -1,4 +1,4 @@
-# Securing a Web Application with Spring Boot, Spring MVC & Spring Security
+# Securing a Web Application with Spring Boot, Thymeleaf & Spring Security
 
 ![Security Config Screenshot](banner.png)
  
